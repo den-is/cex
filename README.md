@@ -55,6 +55,6 @@ Or add `$GOPATH/bin` to your `PATH`.
 - Validate DC - if it is in list of discoverable DCs
 - Validate service - if service exists in queried DC
 - Include in output:
- - agent DC - DC you are connecting
- - queried DC - DC from which you are asking info about service. Defaults to agent DC.
+  - agent DC - DC you are connecting
+  - queried DC - DC from which you are asking info about service. Defaults to agent DC.
 - Use tags to refine service nodes output
