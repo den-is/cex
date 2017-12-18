@@ -44,9 +44,6 @@ Global Flags:
 
 ```
 go get github.com/den-is/cex
-cd $GOPATH/src/github.com/den-is/cex
-go build
-go install
 ```
 After above steps copy `cex` executable from `$GOPATH/bin` into your `PATH`.
 Or add `$GOPATH/bin` to your `PATH`.
